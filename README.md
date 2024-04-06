@@ -29,8 +29,9 @@ Please reference the "Current Status" section for the current status of these pa
 ## Current Status
 ### 06.04.2024
 * Add 4mm panel clips for 3mm panel + 1mm foam
+* Add 5mm panel clips for 4mm panel + 1mm foam
+* Add 6mm panel clips for 3mm panel + 3mm foam
 
 ## TODO
-* Panel Clips for 3mm panels + 3mm foam 
-* Panel clips for 4mm panels + 1mm foam 
 * Panel Clips for 4mm panels + 3mm foam 
+
