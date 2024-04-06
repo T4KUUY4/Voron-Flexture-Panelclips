@@ -5,12 +5,11 @@ Please reference the "Current Status" section for the current status of these pa
 
 ## Images
 ### Front Side
-![Front side of midspan clips](/images/Front_MidSpan.png =100x100)
-![Front side of corner clips](/images/Front-Corner.png =100x100)
+<img src="/images/Front_MidSpan.png" width="100">
+<img src="/images/Front-Corner.png" width="100">
 ### Back Side
-![Back side of midspan clips](/images/MidSpan-back.png =100x100)
-![Back side of corner clips](/images/Corner-Clip-Back.png =100x100)
-
+<img src="/images/MidSpan-back.png" width="100">
+<img src="/images/Corner-Clip-Back.png" width="100">
 ## BOM
 * 48 M3x8 SHCS screws
 * Printed parts
