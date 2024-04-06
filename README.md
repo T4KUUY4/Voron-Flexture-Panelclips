@@ -5,7 +5,7 @@ Please reference the "Current Status" section for the current status of these pa
 
 ## Images
 ### Front Side
-<img src="/images/Front_MidSpan.png" width="200">
+<img src="/images/Front_MidSpan.png" width="400">
 <img src="/images/Front-Corner.png" width="200">
 
 ### Back Side
