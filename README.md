@@ -18,7 +18,7 @@ Please reference the "Current Status" section for the current status of these pa
 * 48 M3x8 SHCS screws
 * Printed parts depending on panel and foam thickness. 4mm = 3mm panel + 1mm foam
 
-### 6-7mm Panels (3mm panel + 3mm foam, 4mm panel + 3mm foam)
+### EXPERIMENTAL 6-7mm Panels (3mm panel + 3mm foam, 4mm panel + 3mm foam)
 * 48 M3x12 SHCS screws
 * Printed parts depending on panel and foam thickness. 6mm = 3mm panel + 3mm foam
 
@@ -26,7 +26,7 @@ Please reference the "Current Status" section for the current status of these pa
 ### 06.04.2024
 * Add 4mm panel clips for 3mm panel + 1mm foam
 * Add 5mm panel clips for 4mm panel + 1mm foam
-* Add 6mm panel clips for 3mm panel + 3mm foam
-* Add 7mm Panel Clips for 4mm panel + 3mm foam 
+* Add 6mm panel experimental clips for 3mm panel + 3mm foam
+* Add 7mm Panel experimental clips for 4mm panel + 3mm foam 
 
 
