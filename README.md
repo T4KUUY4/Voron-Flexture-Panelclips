@@ -5,11 +5,13 @@ Please reference the "Current Status" section for the current status of these pa
 
 ## Images
 ### Front Side
+<div markdown=1>
 <img src="/images/Front_MidSpan.png" width="200">
 <img src="/images/Front-Corner.png" width="200">
 ### Back Side
 <img src="/images/MidSpan-back.png" width="200">
 <img src="/images/Corner-Clip-Back.png" width="200">
+</div>
 ## BOM
 * 48 M3x8 SHCS screws
 * Printed parts
