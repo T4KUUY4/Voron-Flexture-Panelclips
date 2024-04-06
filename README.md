@@ -15,15 +15,7 @@ Please reference the "Current Status" section for the current status of these pa
 
 ## BOM
 * 48 M3x8 SHCS screws
-* Printed parts
-
-## Printed parts guide for Voron V2.4
-* Print 16 of "3x8 SHCS V2_midspan_clip_4mm"
-* Print 16 of "3x8 SHCS Corner Clip"
-
-## Printed parts guide for Voron Trident
-* Print 16 of "3x8 SHCS V2_midspan_clip_4mm"
-* Print 16 of "3x8 SHCS Corner Clip"
+* Printed parts depending on panel and foam thickness. 4mm = 3mm panel + 1mm foam
 
 
 ## Current Status
