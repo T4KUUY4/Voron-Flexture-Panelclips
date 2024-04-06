@@ -3,6 +3,14 @@
 Providing easy to use panel clips that only require a screw and no nut.
 Please reference the "Current Status" section for the current status of these panel clips
 
+## Images
+### Front Side
+![Front side of midspan clips](/images/Front_MidSpan.png)
+![Front side of corner clips](/images/Front-Corner.png)
+### Back Side
+![Back side of midspan clips](/images/MidSpan-back.png)
+![Back side of corner clips](/images/Corner-Clip-Back.png)
+
 ## BOM
 * 48 M3x8 SHCS screws
 * Printed parts
